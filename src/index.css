@@ -29,11 +29,11 @@ ol {
   padding: 0;
   list-style: none;
 }
-img {
+/* img {
   display: block;
   max-width: 100%;
   height: auto;
-}
+} */
 
 .container {
   width: 1200px;
