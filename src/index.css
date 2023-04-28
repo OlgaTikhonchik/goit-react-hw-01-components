@@ -29,11 +29,6 @@ ol {
   padding: 0;
   list-style: none;
 }
-/* img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-} */
 
 .container {
   width: 1200px;
@@ -41,7 +36,7 @@ ol {
   padding-right: 15px;
   margin: 0 auto;
 
-  background-color: rgb(221, 221, 221);
+  background-color: rgb(244, 235, 235);
   padding-top: 20px;
   padding-bottom: 20px;
 }
